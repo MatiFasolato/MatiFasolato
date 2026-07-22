@@ -6,7 +6,6 @@
   <a href="https://www.austral.edu.ar/">
     <img src="https://img.shields.io/badge/Universidad%20Austral-Estudiante-blue" alt="Universidad Austral">
   </a>
-  <img src="https://img.shields.io/badge/Argentina-🇦🇷-lightgrey" alt="Argentina">
 </p>
 
 ---
@@ -21,9 +20,9 @@ Actualmente busco continuar desarrollando mis conocimientos y adquirir experienc
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
-### 📊 Data Science & Analytics
+### Data Science & Analytics
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,mysql" />
@@ -41,9 +40,9 @@ Actualmente busco continuar desarrollando mis conocimientos y adquirir experienc
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🍷 Análisis y modelado predictivo de vinos
+### - 🍷 Análisis y modelado predictivo de vinos
 
 Análisis exploratorio y modelado estadístico de un dataset de características fisicoquímicas de vinos. Desarrollo de modelos de regresión lineal múltiple para predecir la graduación alcohólica y regresión logística para clasificar el tipo de vino.
 
@@ -53,7 +52,7 @@ Análisis exploratorio y modelado estadístico de un dataset de características
 
 ---
 
-### 🚗 Segmentación de mercado automotor
+### - 🚗 Segmentación de mercado automotor
 
 Aplicación de técnicas de análisis multivariado para identificar segmentos de vehículos con características similares. Implementación de Análisis de Componentes Principales (PCA) y técnicas de clustering para reducir la dimensionalidad y segmentar los datos.
 
@@ -63,7 +62,7 @@ Aplicación de técnicas de análisis multivariado para identificar segmentos de
 
 ---
 
-### 📊 Dashboard de Business Intelligence
+### - 📊 Dashboard de Business Intelligence
 
 Desarrollo de un dashboard interactivo en Power BI para analizar indicadores de negocio y facilitar la interpretación de resultados mediante visualizaciones, segmentación de datos y métricas.
 
@@ -73,11 +72,11 @@ Desarrollo de un dashboard interactivo en Power BI para analizar indicadores de 
 
 ---
 
-### 📈 Simulación estadística y Bootstrap
+### - 📈 Simulación estadística y Bootstrap
 
 Aplicación de técnicas de simulación estadística y bootstrap para analizar el comportamiento de estimadores y estudiar conceptos relacionados con error, sesgo y variabilidad.
 
-**Tecnologías:** R · Simulación estadística · Bootstrap · Inferencia estadística
+**Tecnologías:**  Random Forest  · Bootstrap · Inferencia estadística
 
 🔗 [Ver proyecto](#)
 
@@ -85,7 +84,7 @@ Aplicación de técnicas de simulación estadística y bootstrap para analizar e
 
 ## 📚 Formación
 
-🎓 **Licenciatura en Ciencia de Datos**
+ **Licenciatura en Ciencia de Datos**
 Universidad Austral · Rosario, Argentina
 2023 – Actualidad · 3.º año en curso
 
@@ -114,7 +113,7 @@ Universidad Austral · Rosario, Argentina
 
 📧 **Email:** [fasolatomatias@gmail.com](mailto:fasolatomatias@gmail.com)
 
-🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/matias-fasolato/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+🔗 <a href="https://www.linkedin.com/in/matias-fasolato/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 📍 Rosario, Santa Fe, Argentina
 
